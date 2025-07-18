@@ -52,10 +52,14 @@ Driven to solve real-world problems through innovative tech solutions.
             <button className="bg-blue-600 text-white px-8 py-4 rounded-lg font-semibold hover:bg-blue-700 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl">
               View My Work
             </button>
-            <button className="flex items-center gap-2 border-2 border-slate-300 text-slate-700 px-8 py-4 rounded-lg font-semibold hover:border-blue-600 hover:text-blue-600 transition-all duration-300 transform hover:scale-105">
-              <Download className="h-5 w-5" />
-              Download Resume
-            </button>
+            <a
+    href="\Gowtham R Resume (3).pdf"
+    download
+    className="flex items-center gap-2 border-2 border-slate-300 text-slate-700 px-8 py-4 rounded-lg font-semibold hover:border-blue-600 hover:text-blue-600 transition-all duration-300 transform hover:scale-105"
+  >
+    <Download className="h-5 w-5" />
+    Download Resume
+  </a>
           </div>
 
           <div className="flex justify-center space-x-6">
