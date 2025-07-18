@@ -8,7 +8,7 @@ export const Projects: React.FC = () => {
       description: 'Ai and Ml driven small specs to assist the Blind persons for their day to day activities and to prevent them from accidents',
       image: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=800',
       tags: ['Ai Assistance', 'CNN','OpenCv', 'React', 'API'],
-      github: '#',
+      github: 'https://github.com/gowthamr2004',
       demo: '#',
       featured: false
     },
@@ -17,7 +17,7 @@ export const Projects: React.FC = () => {
       description: 'CNN-based system for early detection of plant diseases using image analysis. Achieved 92% accuracy on validation dataset.',
       image: 'https://images.pexels.com/photos/2280549/pexels-photo-2280549.jpeg?auto=compress&cs=tinysrgb&w=800',
       tags: ['PyTorch', 'OpenCV', 'CNN', 'Healthcare'],
-      github: '#',
+      github: 'https://github.com/gowthamr2004',
       demo: '#',
       featured: true
     },

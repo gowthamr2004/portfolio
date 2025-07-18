@@ -64,9 +64,9 @@ Driven to solve real-world problems through innovative tech solutions.
 
           <div className="flex justify-center space-x-6">
             {[
-              { icon: Github, href: '#', label: 'GitHub' },
-              { icon: Linkedin, href: 'www.linkedin.com/in/gowtham-r-b36125258', label: 'LinkedIn' },
-              { icon: Mail, href: 'gowthamraji0411@gmail.com', label: 'Email' },
+              { icon: Github, href: 'https://github.com/gowthamr2004', label: 'GitHub' },
+              { icon: Linkedin, href: 'https://www.linkedin.com/in/gowtham-r-b36125258', label: 'LinkedIn' },
+              { icon: Mail, href: 'https://mail.google.com/mail/?view=cm&to=gowthamraji0411@gmail.com', label: 'Email' },
             ].map(({ icon: Icon, href, label }) => (
               <a
                 key={label}
